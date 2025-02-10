@@ -9,6 +9,8 @@ Preprocessing – Handle missing values (if any), scale features, and split data
 Model Building – Implement a Linear Regression model using scikit-learn pipelines.
 Evaluation – Assess model performance using MAE, MSE, and R² Score.
 Deployment – Upload the project to GitHub for version control and collaboration.
+
+
 📊 Technologies Used
 1. Python
 2. Pandas, NumPy (Data Processing)
